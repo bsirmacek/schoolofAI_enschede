@@ -33,3 +33,18 @@ Part 3: https://youtu.be/n9-aQ-R4q2I (Beril's presentation, tensorboard, music a
 
 Source code: <br />
 Creating/printing tensors, observing tensor operations on the tensorboard in the jupyter notebook  <br />
+
+# Lecture 3
+Slides: <br />
+December 2018, Enschede The Netherlands
+* Pytorch for machine learning, by Cesare Montresor
+* Generative adversarial networks (GANs), by Beril Sirmacek
+
+Lecture 3 Videos <br />
+Trailer: https://youtu.be/5jKTXyVTfRs <br />
+Full presentations: <br />
+Part 1:  https://youtu.be/pPv9poXNi6Y (Pytorch for machine learning by Cesare Montresor)  <br />
+Part 2:  https://youtu.be/G44ePVy48F8 (Quiz and the book give away session)<br />
+Part 3:  https://youtu.be/_MkV_NgOGM4 (GANs by Beril Sirmacek) <br />
+Part 4:  https://youtu.be/qQUhnFSV4O4 (Classification with Keras Video 1 by Ernests Elksnis)
+         https://youtu.be/T9-ww-p93PI (Classification with Keras Video 2 by Ernests Elksnis)
