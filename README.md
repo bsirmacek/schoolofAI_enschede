@@ -48,3 +48,18 @@ Part 2:  https://youtu.be/G44ePVy48F8 (Quiz and the book give away session)<br /
 Part 3:  https://youtu.be/_MkV_NgOGM4 (GANs by Beril Sirmacek) <br />
 Part 4:  https://youtu.be/qQUhnFSV4O4 (Classification with Keras Video 1 by Ernests Elksnis)
          https://youtu.be/T9-ww-p93PI (Classification with Keras Video 2 by Ernests Elksnis)
+         
+# Lecture 4
+Slides: <br />
+January 2019, Enschede The Netherlands
+* House price prediction, regression, RNN, LSTM, by Beril Sirmacek
+
+Lecture 4 Videos <br />
+Trailer: https://youtu.be/Os86WOxSf9c <br />
+Full Presentations: <br />
+Memory in AI, by Ernests Elksnis: https://youtu.be/_gSQnRVQZ_k <br />
+House price prediction, regression, RNN, LSTM, by Beril Sirmacek: https://youtu.be/YdQB63-AaZ8 <br />
+Quiz and book give away: https://youtu.be/LwhHrGXM5p8 <br />
+
+
+
