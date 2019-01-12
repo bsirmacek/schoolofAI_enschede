@@ -61,5 +61,6 @@ Memory in AI, by Ernests Elksnis: https://youtu.be/_gSQnRVQZ_k <br />
 House price prediction, regression, RNN, LSTM, by Beril Sirmacek: https://youtu.be/YdQB63-AaZ8 <br />
 Quiz and book give away: https://youtu.be/LwhHrGXM5p8 <br />
 
-
+Source code: <br />
+Jupyter notebooks on linear regression, polynomial regression, LSTM and autoencoder
 
