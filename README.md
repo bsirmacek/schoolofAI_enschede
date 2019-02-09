@@ -76,5 +76,5 @@ Trailer: https://youtu.be/sXN02sYHusc <br />
 Full Presentations: <br />
 Segmentation: FCN and U-Nets, by Beril Sirmacek: https://youtu.be/RTRm-PIi9L0 <br />
 Adanet, self adaptive nets, by Ernests ElksnisL https://youtu.be/AwaYh5_DZRE <br />
-Machine Learning and Face Recognition Apps, by Gant Laborde: https://youtu.be/2FALkyQ_9Pk
+Machine Learning and Face Recognition Apps, by Gant Laborde: https://youtu.be/2FALkyQ_9Pk <br />
 Quiz and book give away: https://youtu.be/FUMGBaddcPw  <br />
