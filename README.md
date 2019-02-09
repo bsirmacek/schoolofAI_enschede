@@ -64,3 +64,17 @@ Quiz and book give away: https://youtu.be/LwhHrGXM5p8 <br />
 Source code: <br />
 Jupyter notebooks on linear regression, polynomial regression, LSTM and autoencoder
 
+
+# Lecture 5
+Slides: <br />
+February 7th, Enschede The Netherlands
+* Segmentation: FCN and U-Nets, by Beril Sirmacek
+* Quiz questions
+
+Lecture 5 Videos <br />
+Trailer: https://youtu.be/sXN02sYHusc <br />
+Full Presentations: <br />
+Segmentation: FCN and U-Nets, by Beril Sirmacek: https://youtu.be/RTRm-PIi9L0 <br />
+Adanet, self adaptive nets, by Ernests ElksnisL https://youtu.be/AwaYh5_DZRE <br />
+Machine Learning and Face Recognition Apps, by Gant Laborde: https://youtu.be/2FALkyQ_9Pk
+Quiz and book give away: https://youtu.be/FUMGBaddcPw  <br />
