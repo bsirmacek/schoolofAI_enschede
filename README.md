@@ -67,7 +67,7 @@ Jupyter notebooks on linear regression, polynomial regression, LSTM and autoenco
 
 # Lecture 5
 Slides: <br />
-February 7th, Enschede The Netherlands
+February 7th 2019, Enschede The Netherlands
 * Segmentation: FCN and U-Nets, by Beril Sirmacek
 * Quiz questions
 
@@ -82,7 +82,7 @@ Quiz and book give away: https://youtu.be/FUMGBaddcPw  <br />
 
 # Lecture 6
 Slides: <br />
-March 6th, Enschede The Netherlands
+March 6th 2019, Enschede The Netherlands
 * AI in healthcare, by Beril Sirmacek
 * Using AutoML and 3rd party API's at AI developments, by Ernests Elksnis
 * Deep Reinforcement Learning, by Beril Sirmacek
