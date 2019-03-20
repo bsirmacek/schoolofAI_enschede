@@ -75,6 +75,20 @@ Lecture 5 Videos <br />
 Trailer: https://youtu.be/sXN02sYHusc <br />
 Full Presentations: <br />
 Segmentation: FCN and U-Nets, by Beril Sirmacek: https://youtu.be/RTRm-PIi9L0 <br />
-Adanet, self adaptive nets, by Ernests ElksnisL https://youtu.be/AwaYh5_DZRE <br />
+Adanet, self adaptive nets, by Ernests Elksnis: https://youtu.be/AwaYh5_DZRE <br />
 Machine Learning and Face Recognition Apps, by Gant Laborde: https://youtu.be/2FALkyQ_9Pk <br />
 Quiz and book give away: https://youtu.be/FUMGBaddcPw  <br />
+
+
+# Lecture 6
+Slides: <br />
+March 6th, Enschede The Netherlands
+* AI in healthcare, by Beril Sirmacek
+* Using AutoML and 3rd party API's at AI developments, by Ernests Elksnis
+* Deep Reinforcement Learning, by Beril Sirmacek
+* Quiz questions
+
+Lecture 6 Videos <br />
+Trailer: https://youtu.be/hxaSLN-hmPM <br />
+Full Presentations: <br />
+coming soon...<br />
