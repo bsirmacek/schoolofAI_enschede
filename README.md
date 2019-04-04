@@ -91,4 +91,8 @@ March 6th 2019, Enschede The Netherlands
 Lecture 6 Videos <br />
 Trailer: https://youtu.be/hxaSLN-hmPM <br />
 Full Presentations: <br />
-coming soon...<br />
+Deep reinforcement learning, by Beril Sirmacek: https://youtu.be/8bbAdh7Fi6k <br />
+AI in Healthcare, by Beril Sirmacek: https://youtu.be/K-LTOjCDfBE<br />
+AI Quiz, by Beril Sirmacek: https://youtu.be/7ZQAOQOgL_o <br />
+AutoML and building AI apps, by Ernest Elksnis: https://youtu.be/Rt07osarVGM <br />
+
