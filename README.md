@@ -94,5 +94,18 @@ Full Presentations: <br />
 Deep reinforcement learning, by Beril Sirmacek: https://youtu.be/8bbAdh7Fi6k <br />
 AI in Healthcare, by Beril Sirmacek: https://youtu.be/K-LTOjCDfBE<br />
 AI Quiz, by Beril Sirmacek: https://youtu.be/7ZQAOQOgL_o <br />
-AutoML and building AI apps, by Ernest Elksnis: https://youtu.be/Rt07osarVGM <br />
+AutoML and building AI apps, by Ernests Elksnis: https://youtu.be/Rt07osarVGM <br />
 
+# Lecture 7
+April 4th 2019, Enschede The Netherlands <br />
+Jupyter notebooks: <br />
+* introduction to python
+* celcius to fahrenheit
+* image classification with CNN
+
+Lecture 7 Videos <br />
+Trailer: https://youtu.be/8XYMvU4dZM0<br />
+Full Presentations: <br />
+Natural Language Processing (NLP), by Marco Bonzanini: https://youtu.be/WLLBh8m5-c4 <br />
+Google Colab Jump Start, by Beril Sirmacek: https://youtu.be/b-cDKMLQiBo <br />
+Public AI Quiz, by Ernests Elksnis: https://youtu.be/A9TeCgu8nMM <br />
