@@ -109,3 +109,11 @@ Full Presentations: <br />
 Natural Language Processing (NLP), by Marco Bonzanini: https://youtu.be/WLLBh8m5-c4 <br />
 Google Colab Jump Start, by Beril Sirmacek: https://youtu.be/b-cDKMLQiBo <br />
 Public AI Quiz, by Ernests Elksnis: https://youtu.be/A9TeCgu8nMM <br />
+
+# Lecture 8
+May 2nd 2019, Enschede The Netherlands <br />
+Lecture 8 Videos: <br />
+Trailer: 
+https://youtu.be/pKVjfvVf5kk <br />
+Guest speaker Kushal Sharma on how to land on an AI career: https://youtu.be/CG3kztCCpC8 <br />
+Ernests Elksnis on how neural nets are attacked: https://youtu.be/wG27yPKeY-g <br />
