@@ -121,7 +121,7 @@ Ernests Elksnis on how neural nets are attacked: https://youtu.be/wG27yPKeY-g <b
 # Lecture 9
 June 6th 2019, Saxion University of Applied Sciences, Enschede, The Netherlands <br />
 Lecture 9 Videos: <br />
-Trailer: coming... <br />
+Trailer: https://youtu.be/wO167RWIAfQ <br />
 Wilco Bonestroo "Fundamentals of Artificial Neural Networks" https://youtu.be/NOWh0SunMiY <br />
 Miroslav Klivansky "High-performance Input Pipelines for Scalable Deep Learning" https://youtu.be/smnshI7ol68 <br />
 Wilder Rodrigues "Improving machine learning workflows" https://youtu.be/7dojLrDO4vs <br />
