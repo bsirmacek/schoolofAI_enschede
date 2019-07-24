@@ -125,3 +125,11 @@ Trailer: https://youtu.be/wO167RWIAfQ <br />
 Wilco Bonestroo "Fundamentals of Artificial Neural Networks" https://youtu.be/NOWh0SunMiY <br />
 Miroslav Klivansky "High-performance Input Pipelines for Scalable Deep Learning" https://youtu.be/smnshI7ol68 <br />
 Wilder Rodrigues "Improving machine learning workflows" https://youtu.be/7dojLrDO4vs <br />
+
+# Lecture 10
+July 4th 2019, Saxion University of Applied Sciences, Enschede, The Netherlands <br />
+Lecture 10 Videos: <br />
+Trailer:  https://youtu.be/_lRyt-lPqtM <br />
+Nicolò Botteghi "Reinforcement Learning" https://youtu.be/9y2f-g0H3Eg <br />
+Beril Sirmacek "Building AI services" https://youtu.be/HGglOza7fcM <br />
+Vibhav Tiwari "Story of AI" https://youtu.be/z-ZpgtJOlU8 <br />
