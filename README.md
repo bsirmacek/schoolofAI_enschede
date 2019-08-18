@@ -133,3 +133,11 @@ Trailer:  https://youtu.be/_lRyt-lPqtM <br />
 Nicolò Botteghi "Reinforcement Learning" https://youtu.be/9y2f-g0H3Eg <br />
 Beril Sirmacek "Building AI services" https://youtu.be/HGglOza7fcM <br />
 Vibhav Tiwari "Story of AI" https://youtu.be/z-ZpgtJOlU8 <br />
+
+# Lecture 11
+August 5th, 2019 we held our lecture at the University of Twente in Enschede. <br />
+Lecture 11 Videos: <br />
+Trailer video: https://youtu.be/6roDKY-4UHQ <br /> 
+Armin KASSEMI LANGROODI "Reinforcement Learning" https://youtu.be/YlDMsB6OqII <br />
+Beril Sirmacek "SLAM and AI for Robotics" https://youtu.be/xdCEuOMPgiw <br />
+Ernests Elksnis "Face Recognition" https://youtu.be/MYiNTeeL0xA <br />
