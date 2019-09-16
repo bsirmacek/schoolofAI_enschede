@@ -122,7 +122,7 @@ Ernests Elksnis on how neural nets are attacked: https://youtu.be/wG27yPKeY-g <b
 June 6th 2019, Saxion University of Applied Sciences, Enschede, The Netherlands <br />
 Lecture 9 Videos: <br />
 Trailer: https://youtu.be/wO167RWIAfQ <br />
-Wilco Bonestroo "Fundamentals of Artificial Neural Networks" https://youtu.be/NOWh0SunMiY <br />
+Wilco Bonestroo "Fundamentals of Artificial Neural Networks (1 of 3)" https://youtu.be/NOWh0SunMiY <br />
 Miroslav Klivansky "High-performance Input Pipelines for Scalable Deep Learning" https://youtu.be/smnshI7ol68 <br />
 Wilder Rodrigues "Improving machine learning workflows" https://youtu.be/7dojLrDO4vs <br />
 
@@ -141,3 +141,11 @@ Trailer video: https://youtu.be/6roDKY-4UHQ <br />
 Armin KASSEMI LANGROODI "Reinforcement Learning" https://youtu.be/YlDMsB6OqII <br />
 Beril Sirmacek "SLAM and AI for Robotics" https://youtu.be/xdCEuOMPgiw <br />
 Ernests Elksnis "Face Recognition" https://youtu.be/MYiNTeeL0xA <br />
+
+# Lecture 12
+September 5th, 2019 we held our lecture at the Saxion University of Applied Sciences in Enschede. <br />
+Lecture 12 Videos: <br />
+Trailer video: https://youtu.be/iz1B4IfY0D0 <br /> 
+Wilco Bonestroo "Fundamentals of Artificial Neural Networks (2 of 3)":  https://youtu.be/HZoLVRMR3qA <br />
+Beril Sirmacek "Thermal camera applications and AI": https://youtu.be/RhEh2_Z3EXo  <br />
+Shashwat Shukla "Networking with the moon": https://youtu.be/fMSOcUWdPPA  <br />
