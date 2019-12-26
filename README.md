@@ -149,3 +149,30 @@ Trailer video: https://youtu.be/iz1B4IfY0D0 <br />
 Wilco Bonestroo "Fundamentals of Artificial Neural Networks (2 of 3)":  https://youtu.be/HZoLVRMR3qA <br />
 Beril Sirmacek "Thermal camera applications and AI": https://youtu.be/RhEh2_Z3EXo  <br />
 Shashwat Shukla "Networking with the moon": https://youtu.be/fMSOcUWdPPA  <br />
+
+# Lecture 13
+October 3rd 2019, we held our lecture at the Saxion University of Applied Sciences in Enschede. <br />
+Lecture 13 Videos: <br />
+Trailer video: https://youtu.be/VcevIKkVHLk <br /> 
+Wilco Bonestroo "Fundamentals of AI Lecture 3 of 3": https://youtu.be/az7xGi5tF-U <br />
+Beril Sirmacek "Explainable AI and Interpretibility": https://youtu.be/IZsBNgnZEqk <br />
+
+# Lecture 14
+November 7th 2019, we held our lecture at the Saxion University of Applied Sciences in Enschede. <br />
+Lecture 14 Videos: <br />
+Asst. Prof. Dr. Jan van Rijn, from Leiden University introduced OpenML; <br />
+Part-1: https://youtu.be/ICfe5NAg-5o
+Part-2: https://youtu.be/2dqb4VV9QXY
+
+# Lecture 15
+December 12nd 2019, we held our lecture at the Saxion University of Applied Sciences in Enschede. <br />
+Lecture 15 Videos: <br />
+Trailer video: https://youtu.be/xyWDaJ2izMI <br />
+Vasos Arnaoutis "Machine learning for everyone" https://youtu.be/L4nbEqkI4TE <br />
+Beril Sirmacek "Google Colab with your data" https://youtu.be/irC-JUV5fKs <br />
+
+
+
+
+
+
