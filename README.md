@@ -160,6 +160,7 @@ Beril Sirmacek "Explainable AI and Interpretibility": https://youtu.be/IZsBNgnZE
 # Lecture 14
 November 7th 2019, we held our lecture at the Saxion University of Applied Sciences in Enschede. <br />
 Lecture 14 Videos: <br />
+Trailer video: https://youtu.be/Ci05-_I6xwU <br />
 Asst. Prof. Dr. Jan van Rijn, from Leiden University introduced OpenML; <br />
 Part-1: https://youtu.be/ICfe5NAg-5o
 Part-2: https://youtu.be/2dqb4VV9QXY
